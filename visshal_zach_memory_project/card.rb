@@ -7,7 +7,7 @@ class Card
     end
 
     def hide
-        @face_up = true
+        @face_up = false
     end
 
     def reveal
